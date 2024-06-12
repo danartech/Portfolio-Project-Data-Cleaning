@@ -20,5 +20,9 @@ This project involves cleaning and preparing a real-world dataset on global layo
 
 The cleaned dataset is now prepared for subsequent analysis to uncover trends and patterns in global layoffs.
 
+## Code
+You can find the code for this project in the [Data Cleaning Code](https://github.com/danartech/Portfolio-Project-Data-Cleaning/blob/main/Portfolio%20Project%20-%20Data%20Cleaning%20Dana.sql) file.
+
+
 
 
