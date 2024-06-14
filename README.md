@@ -23,6 +23,11 @@ The cleaned dataset is now prepared for subsequent analysis to uncover trends an
 ## Code
 You can find the code for this project in the [Data Cleaning Code](https://github.com/danartech/Portfolio-Project-Data-Cleaning/blob/main/Portfolio%20Project%20-%20Data%20Cleaning%20Dana.sql) file.
 
+## Certifications
 
+Here are some of my professional certifications related to this project:
+
+  - 📊 [Google Data Analytics Professional Certificate](https://coursera.org/share/4ed75de36411d7d5c0389e2d61a2c2ff)
+<img src="https://i.imgur.com/lctxOq1.png" alt="Google Data Analytics " width="100"/>
 
 
