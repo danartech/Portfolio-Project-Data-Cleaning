@@ -1,4 +1,4 @@
-# Data Cleaning Project
+# Data Cleaning SQL Project 
 
 This project involves cleaning and preparing a real-world dataset on global layoffs using MySQL. The primary goal is to ensure the data is in a usable format for further analysis and visualization. The project includes the following steps:
 
